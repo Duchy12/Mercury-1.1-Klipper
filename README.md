@@ -14,6 +14,6 @@ Hotend Cooling Fan: [GDSTIME 24V 4010](https://www.aliexpress.com/item/327266404
 Toolhead LED: [WS2812B](https://www.aliexpress.com/item/32560280169.html)  
 
 ## Notes
-My Driver_0 was DOA on my board which is why the A motor is in Driver_3
+Driver_0 was DOA on my board which is why the A motor is in Driver_3
 
 This backup is provided by [Klipper-Backup](https://github.com/Staubgeborener/klipper-backup).
